@@ -1,0 +1,15 @@
+/Users/darlingtonpadgett/Herencia/bin/Debug/net9.0/Herencia
+/Users/darlingtonpadgett/Herencia/bin/Debug/net9.0/Herencia.deps.json
+/Users/darlingtonpadgett/Herencia/bin/Debug/net9.0/Herencia.runtimeconfig.json
+/Users/darlingtonpadgett/Herencia/bin/Debug/net9.0/Herencia.dll
+/Users/darlingtonpadgett/Herencia/bin/Debug/net9.0/Herencia.pdb
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.AssemblyInfoInputs.cache
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.AssemblyInfo.cs
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.csproj.CoreCompileInputs.cache
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.sourcelink.json
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.dll
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/refint/Herencia.dll
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.pdb
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/Herencia.genruntimeconfig.cache
+/Users/darlingtonpadgett/Herencia/obj/Debug/net9.0/ref/Herencia.dll
